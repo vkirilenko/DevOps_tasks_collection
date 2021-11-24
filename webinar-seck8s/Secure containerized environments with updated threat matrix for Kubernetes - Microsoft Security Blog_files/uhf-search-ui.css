@@ -1,0 +1,7 @@
+/* sass-lint:disable-all */
+
+.m-auto-suggest {
+
+	/* We never want to see search auto-complete results when our plugin is active */
+	display: none !important;
+}
